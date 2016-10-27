@@ -1,0 +1,24 @@
+E:\Trường Lâm\VS\QLSV\login1\login1\bin\Debug\login1.exe.config
+E:\Trường Lâm\VS\QLSV\login1\login1\obj\Debug\login1.csprojResolveAssemblyReference.cache
+E:\Trường Lâm\VS\QLSV\login1\login1\obj\Debug\login1.frmLogin.resources
+E:\Trường Lâm\VS\QLSV\login1\login1\obj\Debug\login1.frmMain.resources
+E:\Trường Lâm\VS\QLSV\login1\login1\obj\Debug\login1.csproj.GenerateResource.Cache
+E:\Trường Lâm\VS\QLSV\login1\login1\bin\Debug\login1.exe
+E:\Trường Lâm\VS\QLSV\login1\login1\bin\Debug\login1.pdb
+E:\Trường Lâm\VS\QLSV\login1\login1\obj\Debug\login1.Properties.Resources.resources
+E:\Trường Lâm\VS\QLSV\login1\login1\obj\Debug\login1.exe
+E:\Trường Lâm\VS\QLSV\login1\login1\obj\Debug\login1.pdb
+E:\Truong_Lam\VS\QLSV\login1\login1\bin\Debug\login1.exe.config
+E:\Truong_Lam\VS\QLSV\login1\login1\obj\Debug\login1.exe
+E:\Truong_Lam\VS\QLSV\login1\login1\obj\Debug\login1.pdb
+E:\Truong_Lam\VS\QuanLiSThuVien\login1\login1\bin\Debug\login1.exe.config
+E:\Truong_Lam\VS\QuanLiSThuVien\login1\login1\obj\Debug\login1.exe
+E:\Truong_Lam\VS\QuanLiSThuVien\login1\login1\obj\Debug\login1.pdb
+E:\Truong_Lam\VS\QuanLiSThuVien\login1\login1\bin\Debug\login1.exe
+E:\Truong_Lam\VS\QuanLiSThuVien\login1\login1\bin\Debug\login1.pdb
+E:\Truong_Lam\VS\QuanLiSThuVien\login1\login1\obj\Debug\login1.csprojResolveAssemblyReference.cache
+E:\Truong_Lam\VS\QuanLiSThuVien\login1\login1\obj\Debug\login1.frmLogin.resources
+E:\Truong_Lam\VS\QuanLiSThuVien\login1\login1\obj\Debug\login1.frmMain.resources
+E:\Truong_Lam\VS\QuanLiSThuVien\login1\login1\obj\Debug\login1.Properties.Resources.resources
+E:\Truong_Lam\VS\QuanLiSThuVien\login1\login1\obj\Debug\login1.csproj.GenerateResource.Cache
+E:\Truong_Lam\VS\QuanLiSThuVien\login1\login1\bin\Debug\QuanLiThuVien.exe.config
